@@ -7,6 +7,7 @@
 
     <ItemGroup>
         <None Include="Tut-01.fsx" />
+        <Compile Include="Tut-02.fs" />
     </ItemGroup>
 
 </Project>
