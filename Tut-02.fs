@@ -7,7 +7,7 @@
 //module contains values,functions and types.
 //can be nested ...
 module Arithmetic =
-    module Addition =
+    module public Addition =
         let add x y = x + y
         
 
